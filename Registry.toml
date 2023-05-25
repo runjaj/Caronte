@@ -1,0 +1,5 @@
+name = "Caronte"
+uuid = "7afc9ec3-410e-4bb9-80ea-782d7b6f5997"
+repo = "https://github.com/runjaj/Caronte"
+
+[packages]
