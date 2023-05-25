@@ -3,3 +3,4 @@ uuid = "7afc9ec3-410e-4bb9-80ea-782d7b6f5997"
 repo = "https://github.com/runjaj/Caronte"
 
 [packages]
+69fcaa87-fa90-4036-9c5c-5985f0064e23 = { name = "ClaseControl", path = "C/ClaseControl" }
